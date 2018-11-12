@@ -12,3 +12,17 @@ html, body {
     background-attachment: fixed;
     color: white;
 }
+
+
+.container {
+    width: 100%;
+}
+#services {
+    background: url("../assets/backgrounds/s_image.jpg") no-repeat;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+/* section {
+    height: 50vh;
+} */
