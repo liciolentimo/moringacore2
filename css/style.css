@@ -36,6 +36,7 @@ html, body {
     background: url("../assets/backgrounds/c_image.jpg") no-repeat;
     color: white;
     text-shadow: 1px 1px black;
+    margin-bottom: 50px;
     
 }
 #contact-form {
@@ -52,6 +53,7 @@ html, body {
   padding-left:10px;
   padding-top:5px;
   font-size:15px;
+  margin-bottom: 50px;
 }
 input, textarea {
     background-color: rgba(0,0,0,0.0);
