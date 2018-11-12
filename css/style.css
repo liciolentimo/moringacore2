@@ -32,6 +32,34 @@ html, body {
     margin-right: 50px;
     margin-bottom: 50px;
 }
+#contact {    
+    background: url("../assets/backgrounds/c_image.jpg") no-repeat;
+    color: white;
+    text-shadow: 1px 1px black;
+    
+}
+#contact-form {
+    color: white;
+    text-shadow: 1px 1px black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+#msg{
+    width: 100%;
+    border:1px solid;
+  border-radius:2px;
+  padding-left:10px;
+  padding-top:5px;
+  font-size:15px;
+}
+input, textarea {
+    background-color: rgba(0,0,0,0.0);
+}
+
+.translucent{
+    background-color: rgba(0,0,0,0.5);   
+}
 
 /* section {
     height: 50vh;
