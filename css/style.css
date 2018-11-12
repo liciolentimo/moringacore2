@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.1em;
+}
+
+.jumbotron {
+    background: url("../assets/backgrounds/h_img.jpg") no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
