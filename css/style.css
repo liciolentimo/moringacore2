@@ -32,6 +32,9 @@ html, body {
     margin-right: 50px;
     margin-bottom: 50px;
 }
+#click, html {
+    scroll-behavior: smooth;
+}
 #contact {    
     background: url("../assets/backgrounds/c_image.jpg") no-repeat;
     color: white;
