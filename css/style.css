@@ -22,6 +22,16 @@ html, body {
     color: white;
     text-shadow: 1px 1px black;
 }
+#portfolio {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+#portfolio2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
 
 /* section {
     height: 50vh;
